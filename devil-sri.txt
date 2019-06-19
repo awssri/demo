@@ -1,2 +1,3 @@
 this is the file to make changes
-changes done to pull and push
+amending values to the fie and
+keeping it here	changes done to pull and push
